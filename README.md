@@ -134,11 +134,6 @@ Hospital-Readmission-Prediction/
 │   └── xgboost.pkl
 │
 ├── images/
-│   ├── dashboard.png
-│   ├── model_comparison.png
-│   ├── feature_importance.png
-│   └── confusion_matrix.png
-│
 ├── requirements.txt
 └── README.md
 ```
